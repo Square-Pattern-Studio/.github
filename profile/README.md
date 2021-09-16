@@ -1,4 +1,4 @@
-# [![promo](https://square-pattern-studio.github.io/imagedatabase/background.png.webm)](https://squarepatternstudio.com)
+# [![promo](https://square-pattern-studio.github.io/imagedatabase/background.png.webp)](https://squarepatternstudio.com)
 ## We are a small studio from Poland
 We create games, programs and our team consists of 1 member for now. 
 ## Contact
