@@ -18,4 +18,4 @@ We will do some open source projects and maybe even post game code from our game
 For now we do not seek any new people for our organization but you are more than welcome to commit to our projects
 
 
-@2021 Square Pattern Studio 
+@2022 Square Pattern Studio 
